@@ -1,13 +1,6 @@
+import 'package:first_flutter_app/quiz.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(
-    const MaterialApp(
-      home: Scaffold(
-        body: Center(
-          child: Text('Hello world!'),
-        ),
-      ),
-    ),
-  );
+  runApp(const Quiz());
 }
