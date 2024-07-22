@@ -14,7 +14,7 @@ class StartScreen extends StatelessWidget {
           Image.asset(
             'assets/images/quiz-logo.png',
             width: 300,
-            color: Color.fromARGB(121, 255, 255, 255),
+            color: const Color.fromARGB(121, 255, 255, 255),
           ),
           const SizedBox(height: 80),
           const Text(
@@ -31,7 +31,7 @@ class StartScreen extends StatelessWidget {
               shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(15),
               ),
-              side: BorderSide(color: Colors.white, width: 2),
+              side: const BorderSide(color: Colors.white, width: 2),
             ),
             icon: const Icon(Icons.arrow_right_alt),
             label: const Text("Start The Quiz"),
