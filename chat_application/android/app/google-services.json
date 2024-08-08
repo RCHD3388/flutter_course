@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "485276406316",
+    "firebase_url": "https://flutter-course-c4582-default-rtdb.firebaseio.com",
+    "project_id": "flutter-course-c4582",
+    "storage_bucket": "flutter-course-c4582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485276406316:android:2473dacd5068b3b234b789",
+        "android_client_info": {
+          "package_name": "com.example.chat_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpxV5UPmrnMu7JK4zDewAnJhZjuse_IHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
