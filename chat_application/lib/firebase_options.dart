@@ -67,4 +67,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'flutter-course-c4582.appspot.com',
     iosBundleId: 'com.example.chatApplication',
   );
+
 }
